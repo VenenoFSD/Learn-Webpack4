@@ -1,8 +1,13 @@
 ## Webpack 4 学习笔记
 
+### 一、初识 Webpack
+
 1. [Webpack 基础概念](https://github.com/VenenoFSD/Learn-Webpack4/issues/1)
 2. [Webpack 初探](https://github.com/VenenoFSD/Learn-Webpack4/issues/2)
-3. [Webpack 核心概念 - loader](https://github.com/VenenoFSD/Learn-Webpack4/issues/3)
-4. [Webpack 核心概念 - plugins](https://github.com/VenenoFSD/Learn-Webpack4/issues/4)
-5. [Webpack 核心概念 - entry 与 output](https://github.com/VenenoFSD/Learn-Webpack4/issues/5)
-6. [Webpack - devtool](https://github.com/VenenoFSD/Learn-Webpack4/issues/6)
+
+### 二 、Webpack 核心概念
+
+1. [Webpack - loader](https://github.com/VenenoFSD/Learn-Webpack4/issues/3)
+2. [Webpack - plugins](https://github.com/VenenoFSD/Learn-Webpack4/issues/4)
+3. [Webpack - entry 与 output](https://github.com/VenenoFSD/Learn-Webpack4/issues/5)
+4. [Webpack - devtool](https://github.com/VenenoFSD/Learn-Webpack4/issues/6)
