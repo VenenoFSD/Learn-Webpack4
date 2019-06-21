@@ -11,3 +11,4 @@
 2. [Webpack - plugins](https://github.com/VenenoFSD/Learn-Webpack4/issues/4)
 3. [Webpack - entry 与 output](https://github.com/VenenoFSD/Learn-Webpack4/issues/5)
 4. [Webpack - devtool](https://github.com/VenenoFSD/Learn-Webpack4/issues/6)
+5. [Webpack - devServer](https://github.com/VenenoFSD/Learn-Webpack4/issues/7)
