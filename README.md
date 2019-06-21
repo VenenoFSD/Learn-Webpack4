@@ -5,4 +5,4 @@
 3. [Webpack 核心概念 - loader](https://github.com/VenenoFSD/Learn-Webpack4/issues/3)
 4. [Webpack 核心概念 - plugins](https://github.com/VenenoFSD/Learn-Webpack4/issues/4)
 5. [Webpack 核心概念 - entry 与 output](https://github.com/VenenoFSD/Learn-Webpack4/issues/5)
-6. [Webpack - SourceMap 配置](https://github.com/VenenoFSD/Learn-Webpack4/issues/6)
+6. [Webpack - devtool](https://github.com/VenenoFSD/Learn-Webpack4/issues/6)
