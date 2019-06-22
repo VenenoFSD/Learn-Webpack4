@@ -12,3 +12,4 @@
 3. [Webpack - entry 与 output](https://github.com/VenenoFSD/Learn-Webpack4/issues/5)
 4. [Webpack - devtool](https://github.com/VenenoFSD/Learn-Webpack4/issues/6)
 5. [Webpack - devServer](https://github.com/VenenoFSD/Learn-Webpack4/issues/7)
+6. [Webpack - Hot Module Replacement](https://github.com/VenenoFSD/Learn-Webpack4/issues/8)
