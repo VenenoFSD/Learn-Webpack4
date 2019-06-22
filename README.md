@@ -1,4 +1,4 @@
-## Webpack 4 学习笔记
+## Webpack 4 学习笔记（4.35.0）
 
 ### 一、初识 Webpack
 
