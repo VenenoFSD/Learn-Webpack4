@@ -13,3 +13,4 @@
 4. [Webpack - devtool](https://github.com/VenenoFSD/Learn-Webpack4/issues/6)
 5. [Webpack - devServer](https://github.com/VenenoFSD/Learn-Webpack4/issues/7)
 6. [Webpack - Hot Module Replacement](https://github.com/VenenoFSD/Learn-Webpack4/issues/8)
+7. [Webpack - babel 处理 ES6 语法](https://github.com/VenenoFSD/Learn-Webpack4/issues/9)
