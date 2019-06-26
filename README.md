@@ -14,3 +14,4 @@
 5. [Webpack - devServer](https://github.com/VenenoFSD/Learn-Webpack4/issues/7)
 6. [Webpack - Hot Module Replacement](https://github.com/VenenoFSD/Learn-Webpack4/issues/8)
 7. [Webpack - 使用 Babel 处理 ES6 语法](https://github.com/VenenoFSD/Learn-Webpack4/issues/9)
+8. [Webpack - 打包 React 代码](https://github.com/VenenoFSD/Learn-Webpack4/issues/10)
