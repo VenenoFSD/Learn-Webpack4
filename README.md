@@ -21,3 +21,4 @@
 1. [Tree Shaking](https://github.com/VenenoFSD/Learn-Webpack4/issues/11)
 2. [区分开发环境与生产环境的打包配置](https://github.com/VenenoFSD/Learn-Webpack4/issues/12)
 3. [Code Splitting](https://github.com/VenenoFSD/Learn-Webpack4/issues/13)
+4. [SplitChunksPlugin 配置详解](https://github.com/VenenoFSD/Learn-Webpack4/issues/14)
