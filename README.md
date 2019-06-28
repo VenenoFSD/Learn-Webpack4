@@ -19,4 +19,4 @@
 ### 三、Webpack 高级概念
 
 1. [Tree Shaking](https://github.com/VenenoFSD/Learn-Webpack4/issues/11)
-2. [生产环境与开发环境](https://github.com/VenenoFSD/Learn-Webpack4/issues/12)
+2. [开发环境与生产环境](https://github.com/VenenoFSD/Learn-Webpack4/issues/12)
