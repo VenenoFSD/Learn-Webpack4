@@ -22,3 +22,5 @@
 2. [区分开发环境与生产环境的打包配置](https://github.com/VenenoFSD/Learn-Webpack4/issues/12)
 3. [Code Splitting](https://github.com/VenenoFSD/Learn-Webpack4/issues/13)
 4. [SplitChunksPlugin 配置详解](https://github.com/VenenoFSD/Learn-Webpack4/issues/14)
+5. [懒加载与 Chunk](https://github.com/VenenoFSD/Learn-Webpack4/issues/15)
+6. [打包分析，Preloading 与 Prefetching](https://github.com/VenenoFSD/Learn-Webpack4/issues/16)
