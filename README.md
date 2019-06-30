@@ -25,3 +25,4 @@
 5. [懒加载与 Chunk](https://github.com/VenenoFSD/Learn-Webpack4/issues/15)
 6. [打包分析，Preloading 与 Prefetching](https://github.com/VenenoFSD/Learn-Webpack4/issues/16)
 7. [css 文件的代码分割](https://github.com/VenenoFSD/Learn-Webpack4/issues/17)
+8. [Webpack 与浏览器缓存](https://github.com/VenenoFSD/Learn-Webpack4/issues/18)
