@@ -29,3 +29,5 @@
 9. [Shimming](https://github.com/VenenoFSD/Learn-Webpack4/issues/19)
 
 ### 四、Webpack 实战
+
+1. [库文件的打包](https://github.com/VenenoFSD/Learn-Webpack4/issues/20)
