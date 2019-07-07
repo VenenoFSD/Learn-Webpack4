@@ -31,4 +31,4 @@
 ### 四、Webpack 实战
 
 1. [库文件的打包](https://github.com/VenenoFSD/Learn-Webpack4/issues/20)
-2. [PWA 项目的打包](https://github.com/VenenoFSD/Learn-Webpack4/issues/21)
+2. [使用 Webpack 开发 PWA](https://github.com/VenenoFSD/Learn-Webpack4/issues/21)
