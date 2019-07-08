@@ -32,3 +32,4 @@
 
 1. [库文件的打包](https://github.com/VenenoFSD/Learn-Webpack4/issues/20)
 2. [使用 Webpack 开发 PWA](https://github.com/VenenoFSD/Learn-Webpack4/issues/21)
+3. [Webpack 性能优化](https://github.com/VenenoFSD/Learn-Webpack4/issues/22)
